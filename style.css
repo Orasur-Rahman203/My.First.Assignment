@@ -23,7 +23,7 @@ body {
     font-size: large;
 }
 
-#link-button {
+.link-button {
 
     margin-left: 650px;
     font-size: bold;
@@ -48,4 +48,59 @@ body {
     text-align: center;
     color: rgb(0, 0, 0);
     font-size: large;
+}
+
+.footer {
+    background-color: black;
+    height: 150px;
+    padding-top: 3%;
+
+}
+
+#color-setup {
+    color: tomato;
+    font-style: initial;
+    text-align: center;
+}
+
+.text-alienment {
+    color: white;
+    text-align: center;
+}
+
+.our-donate-plane {
+    text-align: center;
+
+}
+
+.Our-donate {
+    display: flex;
+
+}
+
+.width-size {
+    width: 50%;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+
+}
+
+.blue-color {
+    background-color: rgb(178, 191, 191);
+}
+
+.pinkes-color {
+    background-color: rgb(252, 200, 255);
+}
+
+.light-color {
+    background-color: rgb(255, 230, 190);
+}
+
+.text-center-alienment {
+    color: rgb(62, 58, 58);
+    margin-left: 650px;
 }
