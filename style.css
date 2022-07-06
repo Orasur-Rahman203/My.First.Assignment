@@ -100,6 +100,27 @@ body {
     background-color: rgb(255, 230, 190);
 }
 
+.email {
+    width: 30%;
+    height: 30%;
+}
+
+.Subscribe {
+    width: 20%;
+    height: 35%;
+    color: white;
+    background-color: red;
+}
+
+#subscribe-button {
+    text-align: center;
+    padding-top: 100px;
+    height: 100px;
+    width: 800px;
+    margin: auto;
+    background-color: bisque;
+}
+
 .text-center-alienment {
     color: rgb(62, 58, 58);
     margin-left: 650px;
