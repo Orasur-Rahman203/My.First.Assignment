@@ -1,0 +1,51 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.First-part {
+    height: 500px;
+    background-image: url("images/donation6.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+
+
+.text-alein {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+
+}
+
+#text-alein {
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+
+#link-button {
+
+    margin-left: 650px;
+    font-size: bold;
+    color: white;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
+
+.div-margin {
+    padding-top: 100px;
+}
+
+.text-alein2 {
+    text-align: center;
+    font-size: 60px;
+}
+
+#text-alein2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
